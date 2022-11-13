@@ -1,6 +1,6 @@
 # What is this
 
-This is a script to generate orgs table for this page: [https://hoodedhorse.com/wiki/Terra_Invicta/Orgs](TI wiki#orgs)
+This is a script to generate orgs table for this page: https://hoodedhorse.com/wiki/Terra_Invicta/Orgs
 
 # System requirements
 
